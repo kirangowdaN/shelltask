@@ -1,0 +1,46 @@
+if syntax
+if [ condition ];
+then 
+statement
+fi
+
+
+if elif condition
+if [ condition ];
+then
+statement 1
+elif [ condition2 ];
+then 
+statement 2
+else
+statement 3
+fi
+
+if-else syntax
+if [ condition ]
+then
+statement 1
+else
+statement 2
+fi
+
+for loop syntax
+for var in list
+do
+......
+done
+
+while loop syntax
+while [ condition ]
+do
+.....
+done
+
+
+
+until loop syantax
+until [ condition ]
+do 
+....
+done
+
